@@ -7,6 +7,4 @@ void main(){
     printf("Apakah a sama dengan b ? jawabannya adalah  %d\n", a==b);
     printf("Apakah b sama dengan c ? jawabannya adalah  %d\n", b>c);
     printf("Apakah a tidak sama dengan c ? jawabannya adalah  %d\n", a!=c);
-
-
 }
