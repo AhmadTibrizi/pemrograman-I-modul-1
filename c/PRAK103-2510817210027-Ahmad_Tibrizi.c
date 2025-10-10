@@ -8,6 +8,5 @@ void main(){
     float res =a + b;
     res = res * x;
     res = res / y;
-    
     printf("Hasil dari a ditambah b dikali x dan dibagi y adalah %.2f", res);
 }
